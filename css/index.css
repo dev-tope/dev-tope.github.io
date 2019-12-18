@@ -1,0 +1,93 @@
+body{
+  margin: 0px;
+}
+
+.jumbotron{
+  background-image: url(../images/1.jpg);
+}
+
+.box{
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+.team-card{
+  margin-top: 1em;
+  margin-left: em;
+  margin-right: em;
+  text-align: center;
+  width:100%;
+}
+
+.name-div-box{
+  background-color:#2A5D7A;
+  width:20em;
+  border-radius: 20px;
+}
+
+.name-div-box h1{
+  margin-left: 0.6em;
+  color: white;
+  margin-bottom: 0.6em;
+  font-size:50px;
+  font-weight: bold;
+}
+
+.second-team-card{
+  display: inline-block;
+  margin: 0 auto;
+}
+.first-team-card{
+  margin: 0 auto;
+  display: inline-block;
+}
+
+.card-deck{
+  margin-left: 4em;
+  margin-right: 4em;
+}
+
+.text{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+nav{
+  height:6em;
+  background-color:;
+}
+
+.contact-us-text{
+  margin-left: 40%;
+  margin-top: 2em;
+}
+
+.contact-us-text hr{
+  padding-right: 10%;
+}
+
+.contact-us{
+  background-color:#2A5D7A;
+  /* width: 100%;
+  height: 249px; */
+  margin-top: 1em;
+  border-radius: 20px;
+
+}
+.contact-info{
+  display: inline-block;
+  margin: 2em 4em 2em 4em;
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+footer{
+  background-color: blueviolet;
+  width: 100%;
+  height: 4em;
+  text-align: center;
+  margin-top:4em;
+  margin-bottom: 2em;
+}
+footer p{
+  margin-top:1em;
+  color: white;
+}
